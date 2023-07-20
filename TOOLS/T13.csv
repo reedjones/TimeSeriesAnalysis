@@ -1,0 +1,2 @@
+Date,MachineID,TimeStateEventID,Tool,hits applied,min life,max life,PartID
+2022-03-01 01:00:00,1,235,T13,0,200000,500000,-1
